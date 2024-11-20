@@ -3,7 +3,7 @@ entries:
   backend:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-11-20T18:49:17.0945436+07:00"
+    created: "2024-11-20T19:00:36.9429035+07:00"
     dependencies:
     - name: postgresql
       repository: oci://registry-1.docker.io/bitnamicharts
@@ -13,6 +13,6 @@ entries:
     name: backend
     type: application
     urls:
-    - https://HauNT1409021997.github.io/todo/index.yaml/backend-1.0.0.tgz
+    - https://HauNT1409021997.github.io/todo/backend.tgz
     version: 1.0.0
-generated: "2024-11-20T18:49:17.0815257+07:00"
+generated: "2024-11-20T19:00:36.9300153+07:00"
